@@ -5,6 +5,8 @@ This guide walks you through using Maven to build a simple Java project.
 
 
 
+
+
 You’ll create an application that provides the time of day and then build it with Maven.
 
 ## What you’ll need
